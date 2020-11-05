@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Mini Social Network
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+
+Un mini réseau social en React pour THP-Next.
+
+## Auteurs
+
+* **Caroline Kinouani** _alias_ [@oumasma](https://github.com/oumasma)
+* **Jean Kinouani** _alias_ [@jrkinouani](https://github.com/jrkinouani)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
